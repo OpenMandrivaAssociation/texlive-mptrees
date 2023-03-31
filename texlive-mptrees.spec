@@ -1,6 +1,6 @@
 Name:		texlive-mptrees
 Version:	60929
-Release:	1
+Release:	2
 Summary:	Probability trees with MetaPost
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mptrees
