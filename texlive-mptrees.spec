@@ -1,5 +1,5 @@
 Name:		texlive-mptrees
-Version:	66952
+Version:	70117
 Release:	1
 Summary:	Probability trees with MetaPost
 Group:		Publishing
