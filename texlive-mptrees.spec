@@ -3,7 +3,7 @@ Version:	70887
 Release:	1
 Summary:	Probability trees with MetaPost
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mptrees
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mptrees
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mptrees.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mptrees.doc.r%{version}.tar.xz
